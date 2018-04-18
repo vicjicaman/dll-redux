@@ -1,0 +1,11 @@
+{
+  "fullname": "@nebulario/dll-redux",
+  "version": "",
+  "repository": {
+    "url": "github.com:vicjicaman/dll-redux.git",
+    "upstream": {}
+  },
+  "labels": {
+    "type":"npm-dll"
+  }
+}
