@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/dll-redux",
-  "version": "1.0.0-master",
+  "version": "1.0.6-local-ui-graph",
   "mountpoint": "redux",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/dll-redux.git",
