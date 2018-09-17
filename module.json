@@ -2,9 +2,6 @@
   "type": "npm",
   "fullname": "@nebulario/dll-redux",
   "version": "1.0.21-local-ui-graph-dev",
-  "repository": {
-    "url": "github.com:vicjicaman/dll-redux.git",
-    "upstream": {}
-  },
+  "upstream": {},
   "labels": [{"labelid":"group", "value":"dll"}]
 }
