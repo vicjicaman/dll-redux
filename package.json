@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/dll-redux",
-  "version": "1.10.1-master",
+  "version": "1.55.0-master",
   "mountpoint": "redux",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/dll-redux.git",
@@ -26,7 +26,7 @@
     "nodemon-webpack-plugin": "^0.1.5",
     "npm-run-all": "^4.1.2",
     "on-build-webpack": "^0.1.0",
-    "react": "^16.2.0",
+    "react": "^16.4.0",
     "shelljs": "^0.7.8",
     "uglifyjs-webpack-plugin": "^1.1.2",
     "webpack": "^3.8.1",
